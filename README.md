@@ -1,7 +1,7 @@
 # Lets Chat
 ### A chatting web app 
 
-On going through the projects on firebase I came across a [codelabs](https://codelabs.developers.google.com) project on firebase.I found that interesting and added few features in that projects 
+On going through the projects for google firebase I came across a [codelabs](https://codelabs.developers.google.com) project of firebase.I found that interesting and add few new features in that projects.
 
 ### Features 
  - AUTHENTICATION USING GOOGLE SIGN UP
